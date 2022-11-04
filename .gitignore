@@ -1,0 +1,14 @@
+node_modules
+.vscode
+/dist/
+.js
+.js.map
+tsconfig.tsbuildinfo
+.env
+coverage
+src/logs
+.vscode 
+ecosystem.config.js
+logs*
+csv.ts
+.DS_Store
